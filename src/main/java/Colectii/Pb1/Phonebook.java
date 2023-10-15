@@ -1,4 +1,4 @@
-package Pb1_Colectii;
+package Colectii.Pb1;
 
 import java.util.ArrayList;
 import java.util.List;

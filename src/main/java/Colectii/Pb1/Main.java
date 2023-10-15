@@ -1,4 +1,4 @@
-package Pb1_Colectii;
+package Colectii.Pb1;
 
 public class Main {
     public static void main(String[] args) {
